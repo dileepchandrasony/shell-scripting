@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c94ff9a-905d-489d-bd83-092f649690db" name="Changes" comment="1">
-      <change beforePath="$PROJECT_DIR$/devops/variables.sh" beforeDir="false" afterPath="$PROJECT_DIR$/devops/variables.sh" afterDir="false" />
-    </list>
+    <list default="true" id="2c94ff9a-905d-489d-bd83-092f649690db" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
