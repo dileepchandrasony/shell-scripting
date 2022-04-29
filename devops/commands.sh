@@ -1,1 +1,1 @@
-echo -e "dileep/nchandra/nsonyy"
+echo -e "dileep\nchandra\nsony"
