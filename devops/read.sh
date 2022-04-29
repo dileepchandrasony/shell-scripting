@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-echo "Enter your name" name
-echo "Enter your gender" gender
-echo "Enter your age" age
+read -p "Enter your name :" name
+read -p "Enter your gender :" gender
+read -p "Enter your age :" age
 
 echo -e "\n\n Your name is $name"
 echo "Your gender is $gender"
