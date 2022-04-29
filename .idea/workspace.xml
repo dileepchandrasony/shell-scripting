@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c94ff9a-905d-489d-bd83-092f649690db" name="Changes" comment="col">
-      <change afterPath="$PROJECT_DIR$/devops/variables.sh" afterDir="false" />
+    <list default="true" id="2c94ff9a-905d-489d-bd83-092f649690db" name="Changes" comment="1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devops/variables.sh" beforeDir="false" afterPath="$PROJECT_DIR$/devops/variables.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651223421858</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="1">
+      <created>1651224054569</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1651224054569</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +156,7 @@
     <MESSAGE value="FN" />
     <MESSAGE value="fn" />
     <MESSAGE value="col" />
-    <option name="LAST_COMMIT_MESSAGE" value="col" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
