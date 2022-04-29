@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c94ff9a-905d-489d-bd83-092f649690db" name="Changes" comment="FN">
+    <list default="true" id="2c94ff9a-905d-489d-bd83-092f649690db" name="Changes" comment="fn">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devops/print.sh" beforeDir="false" afterPath="$PROJECT_DIR$/devops/print.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651220317534</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="FN">
+      <created>1651220588177</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1651220588178</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fn">
+      <created>1651220670463</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651220670463</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +133,7 @@
     <MESSAGE value="echo" />
     <MESSAGE value="cur" />
     <MESSAGE value="FN" />
-    <option name="LAST_COMMIT_MESSAGE" value="FN" />
+    <MESSAGE value="fn" />
+    <option name="LAST_COMMIT_MESSAGE" value="fn" />
   </component>
 </project>
